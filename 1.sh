@@ -1,0 +1,4 @@
+nano
+cat
+ls
+cd
