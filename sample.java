@@ -6,9 +6,9 @@ public class BasicCalculator {
         Scanner scanner = new Scanner(System.in);
 
         // Take two numbers as input
-        System.out.print("Enter the first number: ");
+        System.out.print("Enter the first numbers: ");
         double num1 = scanner.nextDouble();
-        System.out.print("Enter the second number: ");
+        System.out.print("Enter the second numbers: ");
         double num2 = scanner.nextDouble();
 
         // Perform arithmetic operations

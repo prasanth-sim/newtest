@@ -18,7 +18,8 @@ public class PalindromeCheck {
         if (cleaned.equals(reversed)) {
             System.out.println("It's a palindrome!");
         } else {
-            System.out.println("Not a palindrome.");
+
+            System.out.println("Not is  a palindrome.");
         }
 
         scanner.close();
